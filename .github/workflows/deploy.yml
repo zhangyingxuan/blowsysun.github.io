@@ -1,4 +1,4 @@
-name: 张颖旋的个人博客
+name: Deploy VitePress site to Pages
 
 on:
   push:
